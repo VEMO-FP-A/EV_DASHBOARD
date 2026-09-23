@@ -277,5 +277,59 @@
       "bud": "MXN -$6.9m: Driven by a lower EBITDA (-$7.0m).",
       "mom": "MXN -$0.8m: Mainly driven by lower EBITDA (-$0.9m)."
     }
+  },
+  "Aug-26": {
+    "highlights": [
+      {
+        "title": "EPC Revenue",
+        "body": "<b>MXN$8.1m</b> (<span class='g'>+231.2% MoM</span>; <span class='r'>-12.6% vs. the MXN$9.2m Budget</span>) comprising pure EPC (DHL MXN$6.9m across 4 sites, Tesla MXN$1.2m)."
+      },
+      {
+        "title": "Backlog",
+        "body": "Closed at <b>MXN$67.0m</b> following <span class='g'>MXN$17.8m of additions</span> from 9 newly signed Grupo Andrade ChaaS sites, with the full 11-site program expected to generate ~MXN$1.0m of recurring monthly revenue once deployed."
+      },
+      {
+        "title": "Pipeline & YTD",
+        "body": "Total pipeline reached <b>MXN$274m</b> (vs. MXN$234m in July), with YTD EPC sales at <b>MXN$112.7m</b> (60% of it still in backlog). Strong focus on building backlog to reach revenue budget and achieve EBITDA break-even target."
+      },
+      {
+        "title": "ZEE",
+        "body": "Closed at <b>663 monitored third-party vehicles</b> (<span class='g'>+6.9% MoM</span>), <span class='g'>18.0% above the 562 Budget</span>. Pilot tests underway with Bimbo and OXXO (Coca-Cola group)."
+      },
+      {
+        "title": "Watts B2B",
+        "body": "Record consumption of <b>203,558 kWh</b> (<span class='g'>+2.9% MoM</span>) and revenue of <b>MXN$1.45m</b> (<span class='g'>+2.7% MoM</span>), very relevant in the context of a smaller LTO."
+      },
+      {
+        "title": "eMSP",
+        "body": "Signed <b>3 new 60 kW GB/T DC chargers</b> with BYD dealerships in Ciudad Obregón, Nogales and San Miguel de Allende, bringing the portfolio to 30 DC chargers representing 3,745 kW, consolidating Watts as the go-to market charging app in Mexico, which is expected to yield more organic demand over time."
+      }
+    ],
+    "lowlights": [
+      {
+        "title": "ZEE Deployment Run-Rate",
+        "body": "August deployments totaled <b>43 vehicles</b>, <span class='r'>33.8% below the monthly Budget of 65</span>. The cumulative position stays ahead of plan, but the monthly pace is behind."
+      },
+      {
+        "title": "Customer Concentration Remains High",
+        "body": "All ZEE net additions came from LALA (421 → 464), lifting its share to <span class='r'>70.0%</span> of the monitored fleet (from 67.9%). On the other hand, LAFA represents <span class='r'>94.9%</span> of Watts B2B consumption and <span class='r'>94.0%</span> of revenue – leaving both products single-customer dependent."
+      }
+    ],
+    "pnl_revenue": {
+      "bud": "MXN -$27.1m: Driven by: (i) lower Interco EPC (-$25.7m), and (ii) lower third-party EPC (-$1.2m). Main projects executed during this month: (a) the recognition of four DHL locations ($6.9m), (b) Tesla La Paz ($1.2m), and (c) KIA Pesqueria ($0.3m) and (iii) lower contracted revenues (-$0.2m) on account of a lower Zee total monitored vehicles (2,957 vs 3,738).",
+      "mom": "MXN +$0.1m: Driven by: (i) higher third-party EPC (+$5.6m), (ii) higher contracted revenues (+$0.3m) and; partly offset by (iii) lower Interco EPC (-$5.9m)."
+    },
+    "pnl_gp": {
+      "bud": "MXN -$3.6m: Driven by lower revenues (-$27.1m), partially offset by lower EPC Direct Cost (+$23.4m). Gross Profit Margin was above budget (39.7% vs 24.3%) mainly by the recognition of Construction Management Fee for ($0.4m).",
+      "mom": "MXN +$4.7m: Mainly driven by revenue performance."
+    },
+    "pnl_ebitda": {
+      "bud": "MXN -$0.5m: Driven by (i) lower GP (-$3.6m), offset by (ii) lower SG&A (+$3.1m) due to release of unused 2025 provisions as part of a previous 2026 revisions.",
+      "mom": "MXN +$7.6m: Driven by: (i) a higher GP (+$4.7m), and (ii) lower SG&A (+$2.9m) as mentioned above."
+    },
+    "pnl_ni": {
+      "bud": "MXN -$1.0m: Driven by (i) a lower EBITDA (-$0.5m), and (ii) a higher D&A (-$0.5m) on account of HOLCIM Infra amortization.",
+      "mom": "MXN +$7.0m: Mainly driven by higher EBITDA (+$7.6m), partially offset by D&A (-$0.4m) and interest expense (-$0.2m)."
+    }
   }
 }
